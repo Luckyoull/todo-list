@@ -2,9 +2,12 @@
 
 一个现代化、美观的待办事项管理应用。
 
+**🌐 在线访问**：https://luckyoull.github.io/todo-list/
+
 ![Todo List](https://img.shields.io/badge/React-18.3-purple?logo=react)
 ![Vite](https://img.shields.io/badge/Vite-6.0-brightgreen?logo=vite)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38bdf8?logo=tailwindcss)
+![GitHub Pages](https://img.shields.io/badge/deploy-GitHub%20Pages-blue?logo=github)
 
 ## ✨ 功能特性
 
